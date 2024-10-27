@@ -62,10 +62,10 @@ Follow these steps to run the project on your local machine:
 
 ## Connect with Me
 
-- **LinkedIn:** [Abhay Singh]([https://linkedin.com/your-profile](https://www.linkedin.com/in/abhay-pratap-singh-108804219/))
-- **Email:** Abhaystudent2002@gmail.com
+- **LinkedIn:** [Vijay Rai](https://www.linkedin.com/in/vijay-rai-263923254/)
+- **Email:** vijayraia2z@gmail.com
 
 
 ---
 
-Owner: Abhay Singh
+Owner: Vijay Rai
